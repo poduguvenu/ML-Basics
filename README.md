@@ -7,3 +7,6 @@ Feature Selection
 Hypothesis Testing
 
 Univaraite Bivaraite and Multivaraite Analysis
+
+Hyperparameter Optimization - XGBoost
+
