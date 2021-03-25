@@ -13,3 +13,5 @@ Hyperparameter Optimization - XGBoost
 Principal Component Analysis
 
 Selecting the Right Threshold Values using ROC Curve
+
+Various Hyperparameter Optimization Techniques
