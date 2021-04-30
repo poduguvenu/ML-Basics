@@ -15,3 +15,5 @@ Principal Component Analysis
 Selecting the Right Threshold Values using ROC Curve
 
 Various Hyperparameter Optimization Techniques
+
+Implimenting K-Fold & Stratified K-Fold Cross Validation
